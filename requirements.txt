@@ -1,0 +1,10 @@
+gradio==4.44.0
+langgraph==0.2.34
+langchain==0.2.15
+langchain-openai==0.1.22
+langchain-community==0.2.12
+playwright==1.46.0
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.7.4
+typing_extensions==4.12.2
